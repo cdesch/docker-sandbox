@@ -1,8 +1,5 @@
-docker-compose exec mycli bash
-docker-compose up -d client
-docker exec -i -t composename_my-test_1 bash
-docker exec -i -t composename_my-test_1 bash
-mycli
+# Docker-Sandbox
 
-install ping
-https://stackoverflow.com/questions/39901311/docker-ubuntu-bash-ping-command-not-found
+Variety of tests and proof of concepts for Docker, docker-compose and Docker Swarm
+
+
